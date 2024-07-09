@@ -1,8 +1,8 @@
 
-## Booking's Analysis
+## Customer Analysis
 ## Project Description:
 
-1.This project uses SQL to analyze the dataset of Customer Bookings.
+1.This project uses SQL to analyze the dataset of Customer .
 
 2.The goal of this project is to answer a set of questions about the store's business performance and help in its growth by making better decisions.
 
